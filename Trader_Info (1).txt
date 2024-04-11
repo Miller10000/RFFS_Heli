@@ -1,0 +1,331 @@
+<Category> BLACKS HELIS
+        RFFSHeli_Bell429_Devil,                 VNK,      4500000,  450000 
+        RFFSHeli_Bell429_Ravens,                VNK,      4500000,  450000 
+        RFFSHeli_Bell429_NoMilk,                VNK,      4500000,  450000 
+        RFFSHeli_Bell429_DayDreams,             VNK,      4500000,  450000 
+        RFFSHeli_Bell429_MP,                    VNK,      4500000,  450000 
+        RFFSHeli_Bell429_Bloody,                VNK,      4500000,  450000 
+        RFFSHeli_Bell429_Witcher,               VNK,      4500000,  450000 
+        RFFSHeli_Bell429_USAEagle,              VNK,      4500000,  450000 
+        RFFSHeli_Bell429_PunisherPO,            VNK,      4500000,  450000 
+        RFFSHeli_Bell429_Horde,                 VNK,      4500000,  450000 
+        RFFSHeli_Bell429_Camo14,                VNK,      4500000,  450000 
+        RFFSHeli_Bell429_Camo49,              	VNK,      4500000,  450000
+        RFFSHeli_Bell429_Camo70,              	VNK,      4500000,  450000
+        RFFSHeli_Bell429_Camo77,                VNK,      4500000,  450000 
+        RFFSHeli_Bell429_Camo253,               VNK,      4500000,  450000 
+        RFFSHeli_Bell429_Camo257,               VNK,      4500000,  450000 
+        RFFSHeli_Bell429_Fallout,               VNK,      4500000,  450000 
+        RFFSHeli_Bell429_Gold1,                 VNK,      4500000,  450000 
+        RFFSHeli_Bell429_Gold1A,                VNK,      4500000,  450000 
+        RFFSHeli_Bell429_RusticMetal,           VNK,      4500000,  450000 
+        RFFSHeli_Bell429_Spiderman,             VNK,      4500000,  450000 
+        RFFSHeli_Bell429_Spongebob,             VNK,      4500000,  450000 
+        RFFSHeli_Bell429_Ugly,                  VNK,      4500000,  450000 
+        RFFSHeli_Bell429_Umbrella,              VNK,      4500000,  450000 
+        RFFSHeli_Bell429_UnCiv,                 VNK,      4500000,  450000 
+        RFFSHeli_Bell429_Venom,                 VNK,      4500000,  450000 
+        RFFSHeli_Bell429_Winter31,              VNK,      4500000,  450000 
+        RFFSHeli_Bell429_Winter67,              VNK,      4500000,  450000 
+        RFFSHeli_Bell429_Winter80,              VNK,      4500000,  450000 
+        RFFSHeli_Bell429_Winter81,              VNK,      4500000,  450000 
+        RFFSHeli_Bell429_Winter82,              VNK,      4500000,  450000
+        RFFSHeli_Bell429_UglyIrish,             VNK,      4500000,  450000
+        RFFSHeli_Bell429_Clawz,              	VNK,      4500000,  450000
+        RFFSHeli_Bo105m_Bane,              	VNK,      4500000,  450000
+        RFFSHeli_Bo105m_Beast,              	VNK,      4500000,  450000
+        RFFSHeli_Bo105m_BeastMode,              VNK,      4500000,  450000
+        RFFSHeli_Bo105m_Camo257,              	VNK,      4500000,  450000
+        RFFSHeli_Bo105m_Evil,              	VNK,      4500000,  450000
+        RFFSHeli_Bo105m_Ghost,              	VNK,      4500000,  450000
+        RFFSHeli_Bo105m_GoldUnCiv,              VNK,      4500000,  450000
+
+
+Trader Parts
+
+<VehicleParts>RFFSHeli_Bell429_Devil
+        RFFSHeli_aviation_battery
+        RFFSHeli_igniter_plug
+        RFFSHeli_hydraulic_hoses
+        RFFSHeli_wiring_harness
+        HeadlightH7
+        
+<VehicleParts>RFFSHeli_Bell429_Ravens
+        RFFSHeli_aviation_battery
+        RFFSHeli_igniter_plug
+        RFFSHeli_hydraulic_hoses
+        RFFSHeli_wiring_harness
+        HeadlightH7
+        
+<VehicleParts>RFFSHeli_Bell429_NoMilk
+        RFFSHeli_aviation_battery
+        RFFSHeli_igniter_plug
+        RFFSHeli_hydraulic_hoses
+        RFFSHeli_wiring_harness
+        HeadlightH7
+        
+<VehicleParts>RFFSHeli_Bell429_DayDreams
+        RFFSHeli_aviation_battery
+        RFFSHeli_igniter_plug
+        RFFSHeli_hydraulic_hoses
+        RFFSHeli_wiring_harness
+        HeadlightH7
+        
+<VehicleParts>RFFSHeli_Bell429_MP
+        RFFSHeli_aviation_battery
+        RFFSHeli_igniter_plug
+        RFFSHeli_hydraulic_hoses
+        RFFSHeli_wiring_harness
+        HeadlightH7
+        
+<VehicleParts>RFFSHeli_Bell429_Bloody
+        RFFSHeli_aviation_battery
+        RFFSHeli_igniter_plug
+        RFFSHeli_hydraulic_hoses
+        RFFSHeli_wiring_harness
+        HeadlightH7
+        
+<VehicleParts>RFFSHeli_Bell429_Witcher
+        RFFSHeli_aviation_battery
+        RFFSHeli_igniter_plug
+        RFFSHeli_hydraulic_hoses
+        RFFSHeli_wiring_harness
+        HeadlightH7
+        
+<VehicleParts>RFFSHeli_Bell429_USAEagle
+        RFFSHeli_aviation_battery
+        RFFSHeli_igniter_plug
+        RFFSHeli_hydraulic_hoses
+        RFFSHeli_wiring_harness
+        HeadlightH7
+        
+<VehicleParts>RFFSHeli_Bell429_PunisherPO
+        RFFSHeli_aviation_battery
+        RFFSHeli_igniter_plug
+        RFFSHeli_hydraulic_hoses
+        RFFSHeli_wiring_harness
+        HeadlightH7
+		
+<VehicleParts>RFFSHeli_Bell429_Horde
+        RFFSHeli_aviation_battery
+        RFFSHeli_igniter_plug
+        RFFSHeli_hydraulic_hoses
+        RFFSHeli_wiring_harness
+        HeadlightH7
+        
+<VehicleParts>RFFSHeli_Bell429_Camo14
+        RFFSHeli_aviation_battery
+        RFFSHeli_igniter_plug
+        RFFSHeli_hydraulic_hoses
+        RFFSHeli_wiring_harness
+        HeadlightH7
+        
+<VehicleParts>RFFSHeli_Bell429_Camo77
+        RFFSHeli_aviation_battery
+        RFFSHeli_igniter_plug
+        RFFSHeli_hydraulic_hoses
+        RFFSHeli_wiring_harness
+        HeadlightH7
+        
+<VehicleParts>RFFSHeli_Bell429_Camo253
+        RFFSHeli_aviation_battery
+        RFFSHeli_igniter_plug
+        RFFSHeli_hydraulic_hoses
+        RFFSHeli_wiring_harness
+        HeadlightH7
+        
+<VehicleParts>RFFSHeli_Bell429_Camo257
+        RFFSHeli_aviation_battery
+        RFFSHeli_igniter_plug
+        RFFSHeli_hydraulic_hoses
+        RFFSHeli_wiring_harness
+        HeadlightH7
+        
+<VehicleParts>RFFSHeli_Bell429_Fallout
+        RFFSHeli_aviation_battery
+        RFFSHeli_igniter_plug
+        RFFSHeli_hydraulic_hoses
+        RFFSHeli_wiring_harness
+        HeadlightH7
+        
+<VehicleParts>RFFSHeli_Bell429_Gold1
+        RFFSHeli_aviation_battery
+        RFFSHeli_igniter_plug
+        RFFSHeli_hydraulic_hoses
+        RFFSHeli_wiring_harness
+        HeadlightH7
+        
+<VehicleParts>RFFSHeli_Bell429_Gold1A
+        RFFSHeli_aviation_battery
+        RFFSHeli_igniter_plug
+        RFFSHeli_hydraulic_hoses
+        RFFSHeli_wiring_harness
+        HeadlightH7
+        
+<VehicleParts>RFFSHeli_Bell429_RusticMetal
+        RFFSHeli_aviation_battery
+        RFFSHeli_igniter_plug
+        RFFSHeli_hydraulic_hoses
+        RFFSHeli_wiring_harness
+        HeadlightH7
+        
+<VehicleParts>RFFSHeli_Bell429_Spiderman
+        RFFSHeli_aviation_battery
+        RFFSHeli_igniter_plug
+        RFFSHeli_hydraulic_hoses
+        RFFSHeli_wiring_harness
+        HeadlightH7
+		
+<VehicleParts>RFFSHeli_Bell429_Spongebob
+        RFFSHeli_aviation_battery
+        RFFSHeli_igniter_plug
+        RFFSHeli_hydraulic_hoses
+        RFFSHeli_wiring_harness
+        HeadlightH7
+
+<VehicleParts>RFFSHeli_Bell429_Ugly
+        RFFSHeli_aviation_battery
+        RFFSHeli_igniter_plug
+        RFFSHeli_hydraulic_hoses
+        RFFSHeli_wiring_harness
+        HeadlightH7
+        
+<VehicleParts>RFFSHeli_Bell429_Umbrella
+        RFFSHeli_aviation_battery
+        RFFSHeli_igniter_plug
+        RFFSHeli_hydraulic_hoses
+        RFFSHeli_wiring_harness
+        HeadlightH7
+        
+<VehicleParts>RFFSHeli_Bell429_UnCiv
+        RFFSHeli_aviation_battery
+        RFFSHeli_igniter_plug
+        RFFSHeli_hydraulic_hoses
+        RFFSHeli_wiring_harness
+        HeadlightH7
+        
+<VehicleParts>RFFSHeli_Bell429_Venom
+        RFFSHeli_aviation_battery
+        RFFSHeli_igniter_plug
+        RFFSHeli_hydraulic_hoses
+        RFFSHeli_wiring_harness
+        HeadlightH7
+        
+<VehicleParts>RFFSHeli_Bell429_Winter31
+        RFFSHeli_aviation_battery
+        RFFSHeli_igniter_plug
+        RFFSHeli_hydraulic_hoses
+        RFFSHeli_wiring_harness
+        HeadlightH7
+        
+<VehicleParts>RFFSHeli_Bell429_Winter67
+        RFFSHeli_aviation_battery
+        RFFSHeli_igniter_plug
+        RFFSHeli_hydraulic_hoses
+        RFFSHeli_wiring_harness
+        HeadlightH7
+        
+<VehicleParts>RFFSHeli_Bell429_Winter80
+        RFFSHeli_aviation_battery
+        RFFSHeli_igniter_plug
+        RFFSHeli_hydraulic_hoses
+        RFFSHeli_wiring_harness
+        HeadlightH7
+        
+<VehicleParts>RFFSHeli_Bell429_Winter81
+        RFFSHeli_aviation_battery
+        RFFSHeli_igniter_plug
+        RFFSHeli_hydraulic_hoses
+        RFFSHeli_wiring_harness
+        HeadlightH7
+        
+<VehicleParts>RFFSHeli_Bell429_Winter82
+        RFFSHeli_aviation_battery
+        RFFSHeli_igniter_plug
+        RFFSHeli_hydraulic_hoses
+        RFFSHeli_wiring_harness
+        HeadlightH7
+        
+<VehicleParts>RFFSHeli_Bell429_UglyIrish
+        RFFSHeli_aviation_battery
+        RFFSHeli_igniter_plug
+        RFFSHeli_hydraulic_hoses
+        RFFSHeli_wiring_harness
+        HeadlightH7
+        
+<VehicleParts>RFFSHeli_Bell429_Camo49
+        RFFSHeli_aviation_battery
+        RFFSHeli_igniter_plug
+        RFFSHeli_hydraulic_hoses
+        RFFSHeli_wiring_harness
+        HeadlightH7
+        
+<VehicleParts>RFFSHeli_Bell429_Camo70
+        RFFSHeli_aviation_battery
+        RFFSHeli_igniter_plug
+        RFFSHeli_hydraulic_hoses
+        RFFSHeli_wiring_harness
+        HeadlightH7
+        
+<VehicleParts>RFFSHeli_Bell429_Clawz
+        RFFSHeli_aviation_battery
+        RFFSHeli_igniter_plug
+        RFFSHeli_hydraulic_hoses
+        RFFSHeli_wiring_harness
+        HeadlightH7  
+        
+<VehicleParts>RFFSHeli_Bo105m_Bane 
+        RFFSHeli_aviation_battery
+        RFFSHeli_igniter_plug
+        RFFSHeli_hydraulic_hoses
+        RFFSHeli_wiring_harness
+        HeadlightH7
+        HeadlightH7
+
+<VehicleParts>RFFSHeli_Bo105m_Beast
+        RFFSHeli_aviation_battery
+        RFFSHeli_igniter_plug
+        RFFSHeli_hydraulic_hoses
+        RFFSHeli_wiring_harness
+        HeadlightH7
+        HeadlightH7
+        
+<VehicleParts>RFFSHeli_Bo105m_BeastMode 
+        RFFSHeli_aviation_battery
+        RFFSHeli_igniter_plug
+        RFFSHeli_hydraulic_hoses
+        RFFSHeli_wiring_harness
+        HeadlightH7
+        HeadlightH7
+
+<VehicleParts>RFFSHeli_Bo105m_Camo257
+        RFFSHeli_aviation_battery
+        RFFSHeli_igniter_plug
+        RFFSHeli_hydraulic_hoses
+        RFFSHeli_wiring_harness
+        HeadlightH7
+        HeadlightH7
+        
+<VehicleParts>RFFSHeli_Bo105m_Evil 
+        RFFSHeli_aviation_battery
+        RFFSHeli_igniter_plug
+        RFFSHeli_hydraulic_hoses
+        RFFSHeli_wiring_harness
+        HeadlightH7
+        HeadlightH7
+
+<VehicleParts>RFFSHeli_Bo105m_Ghost
+        RFFSHeli_aviation_battery
+        RFFSHeli_igniter_plug
+        RFFSHeli_hydraulic_hoses
+        RFFSHeli_wiring_harness
+        HeadlightH7
+        HeadlightH7
+        
+<VehicleParts>RFFSHeli_Bo105m_GoldUnCiv 
+        RFFSHeli_aviation_battery
+        RFFSHeli_igniter_plug
+        RFFSHeli_hydraulic_hoses
+        RFFSHeli_wiring_harness
+        HeadlightH7
+        HeadlightH7

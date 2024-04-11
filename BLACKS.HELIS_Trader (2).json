@@ -1,0 +1,711 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Black Helis",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": -1,
+    "Items": [
+        {
+            "ClassName": "RFFSHeli_Bell429_Devil",
+            "MaxPriceThreshold": 4500000,
+            "MinPriceThreshold": 4500000,
+            "SellPricePercent": -1.0,
+           "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+			 "RFFSHeli_aviation_battery",
+			 "RFFSHeli_igniter_plug",
+			 "RFFSHeli_hydraulic_hoses",
+			 "RFFSHeli_wiring_harness",
+             "HeadlightH7"
+			],
+            "Variants": []
+        },
+        {
+            "ClassName": "RFFSHeli_Bell429_Ravens",
+            "MaxPriceThreshold": 4500000,
+            "MinPriceThreshold": 4500000,
+            "SellPricePercent": -1.0,
+           "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+			"RFFSHeli_aviation_battery",
+            "RFFSHeli_igniter_plug",
+			"RFFSHeli_hydraulic_hoses",
+			"RFFSHeli_wiring_harness",
+			"HeadlightH7"
+		],
+            "Variants": []
+        },
+		{
+            "ClassName": "RFFSHeli_Bell429_NoMilk",
+            "MaxPriceThreshold": 4500000,
+            "MinPriceThreshold": 4500000,
+            "SellPricePercent": -1.0,
+           "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+			"RFFSHeli_aviation_battery",
+            "RFFSHeli_igniter_plug",
+			"RFFSHeli_hydraulic_hoses",
+			"RFFSHeli_wiring_harness",
+			"HeadlightH7"],
+            "Variants": []
+        },
+		{
+            "ClassName": "RFFSHeli_Bell429_DayDreams",
+            "MaxPriceThreshold": 4500000,
+            "MinPriceThreshold": 4500000,
+            "SellPricePercent": -1.0,
+           "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+			"RFFSHeli_aviation_battery",
+            "RFFSHeli_igniter_plug",
+			"RFFSHeli_hydraulic_hoses",
+			"RFFSHeli_wiring_harness",
+			"HeadlightH7"
+			],
+            "Variants": []
+        },
+		{
+            "ClassName": "RFFSHeli_Bell429_MP",
+            "MaxPriceThreshold": 4500000,
+            "MinPriceThreshold": 4500000,
+            "SellPricePercent": -1.0,
+           "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+			"RFFSHeli_aviation_battery",
+            "RFFSHeli_igniter_plug",
+			"RFFSHeli_hydraulic_hoses",
+			"RFFSHeli_wiring_harness",
+			"HeadlightH7"
+			],
+            "Variants": []
+        },
+		{
+            "ClassName": "RFFSHeli_Bell429_Bloody",
+            "MaxPriceThreshold": 4500000,
+            "MinPriceThreshold": 4500000,
+            "SellPricePercent": -1.0,
+           "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+			"RFFSHeli_aviation_battery",
+            "RFFSHeli_igniter_plug",
+			"RFFSHeli_hydraulic_hoses",
+			"RFFSHeli_wiring_harness",
+			"HeadlightH7"
+			],
+            "Variants": []
+        },
+		{
+            "ClassName": "RFFSHeli_Bell429_Witcher",
+            "MaxPriceThreshold": 4500000,
+            "MinPriceThreshold": 4500000,
+            "SellPricePercent": -1.0,
+           "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+			"RFFSHeli_aviation_battery",
+            "RFFSHeli_igniter_plug",
+			"RFFSHeli_hydraulic_hoses",
+			"RFFSHeli_wiring_harness",
+			"HeadlightH7"
+			],
+            "Variants": []
+        },
+		{
+            "ClassName": "RFFSHeli_Bell429_USAEagle",
+            "MaxPriceThreshold": 4500000,
+            "MinPriceThreshold": 4500000,
+            "SellPricePercent": -1.0,
+           "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },{
+            "ClassName": "RFFSHeli_Bell429_PunisherPO",
+            "MaxPriceThreshold": 4500000,
+            "MinPriceThreshold": 4500000,
+            "SellPricePercent": -1.0,
+           "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+			"RFFSHeli_aviation_battery",
+            "RFFSHeli_igniter_plug",
+			"RFFSHeli_hydraulic_hoses",
+			"RFFSHeli_wiring_harness",
+			"HeadlightH7"
+			],
+            "Variants": []
+        },
+		{
+            "ClassName": "RFFSHeli_Bell429_Horde",
+            "MaxPriceThreshold": 4500000,
+            "MinPriceThreshold": 4500000,
+            "SellPricePercent": -1.0,
+           "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+			"RFFSHeli_aviation_battery",
+            "RFFSHeli_igniter_plug",
+			"RFFSHeli_hydraulic_hoses",
+			"RFFSHeli_wiring_harness",
+			"HeadlightH7"
+			],
+            "Variants": []
+        },
+		{
+            "ClassName": "RFFSHeli_Bell429_Camo14",
+            "MaxPriceThreshold": 4500000,
+            "MinPriceThreshold": 4500000,
+            "SellPricePercent": -1.0,
+           "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+			"RFFSHeli_aviation_battery",
+            "RFFSHeli_igniter_plug",
+			"RFFSHeli_hydraulic_hoses",
+			"RFFSHeli_wiring_harness",
+			"HeadlightH7"
+			],
+            "Variants": []
+        },
+		{
+            "ClassName": "RFFSHeli_Bell429_Camo77",
+            "MaxPriceThreshold": 4500000,
+            "MinPriceThreshold": 4500000,
+            "SellPricePercent": -1.0,
+           "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+			"RFFSHeli_aviation_battery",
+            "RFFSHeli_igniter_plug",
+			"RFFSHeli_hydraulic_hoses",
+			"RFFSHeli_wiring_harness",
+			"HeadlightH7"
+			],
+            "Variants": []
+        },
+		{
+            "ClassName": "RFFSHeli_Bell429_Camo253",
+            "MaxPriceThreshold": 4500000,
+            "MinPriceThreshold": 4500000,
+            "SellPricePercent": -1.0,
+           "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+			"RFFSHeli_aviation_battery",
+            "RFFSHeli_igniter_plug",
+			"RFFSHeli_hydraulic_hoses",
+			"RFFSHeli_wiring_harness",
+			"HeadlightH7"
+			],
+            "Variants": []
+        },
+		{
+            "ClassName": "RFFSHeli_Bell429_Camo257",
+            "MaxPriceThreshold": 4500000,
+            "MinPriceThreshold": 4500000,
+            "SellPricePercent": -1.0,
+           "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+			"RFFSHeli_aviation_battery",
+            "RFFSHeli_igniter_plug",
+			"RFFSHeli_hydraulic_hoses",
+			"RFFSHeli_wiring_harness",
+			"HeadlightH7"
+			],
+            "Variants": []
+        },
+		{
+            "ClassName": "RFFSHeli_Bell429_Fallout",
+            "MaxPriceThreshold": 4500000,
+            "MinPriceThreshold": 4500000,
+            "SellPricePercent": -1.0,
+           "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+			"RFFSHeli_aviation_battery",
+            "RFFSHeli_igniter_plug",
+			"RFFSHeli_hydraulic_hoses",
+			"RFFSHeli_wiring_harness",
+			"HeadlightH7"
+			],
+            "Variants": []
+        },
+		{
+            "ClassName": "RFFSHeli_Bell429_Gold1",
+            "MaxPriceThreshold": 4500000,
+            "MinPriceThreshold": 4500000,
+            "SellPricePercent": -1.0,
+           "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+			"RFFSHeli_aviation_battery",
+            "RFFSHeli_igniter_plug",
+			"RFFSHeli_hydraulic_hoses",
+			"RFFSHeli_wiring_harness",
+			"HeadlightH7"
+			],
+            "Variants": []
+        },
+		{
+            "ClassName": "RFFSHeli_Bell429_Gold1A",
+            "MaxPriceThreshold": 4500000,
+            "MinPriceThreshold": 4500000,
+            "SellPricePercent": -1.0,
+           "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+			"RFFSHeli_aviation_battery",
+            "RFFSHeli_igniter_plug",
+			"RFFSHeli_hydraulic_hoses",
+			"RFFSHeli_wiring_harness",
+			"HeadlightH7"
+			],
+            "Variants": []
+        },
+		{
+            "ClassName": "RFFSHeli_Bell429_RusticMetal",
+            "MaxPriceThreshold": 4500000,
+            "MinPriceThreshold": 4500000,
+            "SellPricePercent": -1.0,
+           "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+			"RFFSHeli_aviation_battery",
+            "RFFSHeli_igniter_plug",
+			"RFFSHeli_hydraulic_hoses",
+			"RFFSHeli_wiring_harness",
+			"HeadlightH7"
+			],
+            "Variants": []
+        },
+		{
+            "ClassName": "RFFSHeli_Bell429_Spiderman",
+            "MaxPriceThreshold": 4500000,
+            "MinPriceThreshold": 4500000,
+            "SellPricePercent": -1.0,
+           "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+			"RFFSHeli_aviation_battery",
+            "RFFSHeli_igniter_plug",
+			"RFFSHeli_hydraulic_hoses",
+			"RFFSHeli_wiring_harness",
+			"HeadlightH7"
+			],
+            "Variants": []
+        },
+		{
+            "ClassName": "RFFSHeli_Bell429_Spongebob",
+            "MaxPriceThreshold": 4500000,
+            "MinPriceThreshold": 4500000,
+            "SellPricePercent": -1.0,
+           "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+			"RFFSHeli_aviation_battery",
+            "RFFSHeli_igniter_plug",
+			"RFFSHeli_hydraulic_hoses",
+			"RFFSHeli_wiring_harness",
+			"HeadlightH7"
+			],
+            "Variants": []
+        },
+		{
+            "ClassName": "RFFSHeli_Bell429_Ugly",
+            "MaxPriceThreshold": 4500000,
+            "MinPriceThreshold": 4500000,
+            "SellPricePercent": -1.0,
+           "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+			"RFFSHeli_aviation_battery",
+            "RFFSHeli_igniter_plug",
+			"RFFSHeli_hydraulic_hoses",
+			"RFFSHeli_wiring_harness",
+			"HeadlightH7"
+			],
+            "Variants": []
+        },
+		{
+            "ClassName": "RFFSHeli_Bell429_Umbrella",
+            "MaxPriceThreshold": 4500000,
+            "MinPriceThreshold": 4500000,
+            "SellPricePercent": -1.0,
+           "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+			"RFFSHeli_aviation_battery",
+            "RFFSHeli_igniter_plug",
+			"RFFSHeli_hydraulic_hoses",
+			"RFFSHeli_wiring_harness",
+			"HeadlightH7"
+			],
+            "Variants": []
+        },
+		{
+            "ClassName": "RFFSHeli_Bell429_UnCiv",
+            "MaxPriceThreshold": 4500000,
+            "MinPriceThreshold": 4500000,
+            "SellPricePercent": -1.0,
+           "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+			"RFFSHeli_aviation_battery",
+            "RFFSHeli_igniter_plug",
+			"RFFSHeli_hydraulic_hoses",
+			"RFFSHeli_wiring_harness",
+			"HeadlightH7"
+			],
+            "Variants": []
+        },{
+            "ClassName": "RFFSHeli_Bell429_Venom",
+            "MaxPriceThreshold": 4500000,
+            "MinPriceThreshold": 4500000,
+            "SellPricePercent": -1.0,
+           "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+			"RFFSHeli_aviation_battery",
+            "RFFSHeli_igniter_plug",
+			"RFFSHeli_hydraulic_hoses",
+			"RFFSHeli_wiring_harness",
+			"HeadlightH7"
+			],
+            "Variants": []
+        },{
+            "ClassName": "RFFSHeli_Bell429_Winter31",
+            "MaxPriceThreshold": 4500000,
+            "MinPriceThreshold": 4500000,
+            "SellPricePercent": -1.0,
+           "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+			"RFFSHeli_aviation_battery",
+            "RFFSHeli_igniter_plug",
+			"RFFSHeli_hydraulic_hoses",
+			"RFFSHeli_wiring_harness",
+			"HeadlightH7"
+			],
+            "Variants": []
+        },
+		{
+            "ClassName": "RFFSHeli_Bell429_Winter67",
+            "MaxPriceThreshold": 4500000,
+            "MinPriceThreshold": 4500000,
+            "SellPricePercent": -1.0,
+           "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+			"RFFSHeli_aviation_battery",
+            "RFFSHeli_igniter_plug",
+			"RFFSHeli_hydraulic_hoses",
+			"RFFSHeli_wiring_harness",
+			"HeadlightH7"
+			],
+            "Variants": []
+        },
+		{
+            "ClassName": "RFFSHeli_Bell429_Winter80",
+            "MaxPriceThreshold": 4500000,
+            "MinPriceThreshold": 4500000,
+            "SellPricePercent": -1.0,
+           "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+			"RFFSHeli_aviation_battery",
+            "RFFSHeli_igniter_plug",
+			"RFFSHeli_hydraulic_hoses",
+			"RFFSHeli_wiring_harness",
+			"HeadlightH7"
+			],
+            "Variants": []
+        },{
+            "ClassName": "RFFSHeli_Bell429_Winter81",
+            "MaxPriceThreshold": 4500000,
+            "MinPriceThreshold": 4500000,
+            "SellPricePercent": -1.0,
+           "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+			"RFFSHeli_aviation_battery",
+            "RFFSHeli_igniter_plug",
+			"RFFSHeli_hydraulic_hoses",
+			"RFFSHeli_wiring_harness",
+			"HeadlightH7"
+			],
+            "Variants": []
+        },
+		{
+            "ClassName": "RFFSHeli_Bell429_Winter82",
+            "MaxPriceThreshold": 4500000,
+            "MinPriceThreshold": 4500000,
+            "SellPricePercent": -1.0,
+           "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },{
+            "ClassName": "RFFSHeli_Bell429_UglyIrish",
+            "MaxPriceThreshold": 4500000,
+            "MinPriceThreshold": 4500000,
+            "SellPricePercent": -1.0,
+           "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+			"RFFSHeli_aviation_battery",
+            "RFFSHeli_igniter_plug",
+			"RFFSHeli_hydraulic_hoses",
+			"RFFSHeli_wiring_harness",
+			"HeadlightH7"
+			],
+            "Variants": []
+        },
+		{
+            "ClassName": "RFFSHeli_Bell429_Camo49",
+            "MaxPriceThreshold": 4500000,
+            "MinPriceThreshold": 4500000,
+            "SellPricePercent": -1.0,
+           "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+			"RFFSHeli_aviation_battery",
+            "RFFSHeli_igniter_plug",
+			"RFFSHeli_hydraulic_hoses",
+			"RFFSHeli_wiring_harness",
+			"HeadlightH7"
+			],
+            "Variants": []
+        },
+		{
+            "ClassName": "RFFSHeli_Bell429_Camo70",
+            "MaxPriceThreshold": 4500000,
+            "MinPriceThreshold": 4500000,
+            "SellPricePercent": -1.0,
+           "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+			"RFFSHeli_aviation_battery",
+            "RFFSHeli_igniter_plug",
+			"RFFSHeli_hydraulic_hoses",
+			"RFFSHeli_wiring_harness",
+			"HeadlightH7"
+			],
+            "Variants": []
+        },
+		{
+            "ClassName": "RFFSHeli_Bell429_Clawz",
+            "MaxPriceThreshold": 4500000,
+            "MinPriceThreshold": 4500000,
+            "SellPricePercent": -1.0,
+           "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+			"RFFSHeli_aviation_battery",
+            "RFFSHeli_igniter_plug",
+			"RFFSHeli_hydraulic_hoses",
+			"RFFSHeli_wiring_harness",
+			"HeadlightH7"
+			],
+            "Variants": []
+        },
+		{
+            "ClassName": "RFFSHeli_Bell429_Spazz",
+            "MaxPriceThreshold": 4500000,
+            "MinPriceThreshold": 4500000,
+            "SellPricePercent": -1.0,
+           "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+			"RFFSHeli_aviation_battery",
+            "RFFSHeli_igniter_plug",
+			"RFFSHeli_hydraulic_hoses",
+			"RFFSHeli_wiring_harness",
+			"HeadlightH7"
+			],
+            "Variants": []
+        },
+		{
+            "ClassName": "RFFSHeli_Bell429_AfterLife",
+            "MaxPriceThreshold": 4500000,
+            "MinPriceThreshold": 4500000,
+            "SellPricePercent": -1.0,
+           "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+			"RFFSHeli_aviation_battery",
+            "RFFSHeli_igniter_plug",
+			"RFFSHeli_hydraulic_hoses",
+			"RFFSHeli_wiring_harness",
+			"HeadlightH7"
+			],
+            "Variants": []
+        },
+		{
+            "ClassName": "RFFSHeli_Bo105m_Bane",
+            "MaxPriceThreshold": 4500000,
+            "MinPriceThreshold": 4500000,
+            "SellPricePercent": -1.0,
+           "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+			"RFFSHeli_aviation_battery",
+			"RFFSHeli_igniter_plug",
+			"RFFSHeli_hydraulic_hoses",
+			"RFFSHeli_wiring_harness",
+			"HeadlightH7",
+			"HeadlightH7"
+			],
+            "Variants": []
+        },
+		{
+            "ClassName": "RFFSHeli_Bo105m_Beast",
+            "MaxPriceThreshold": 4500000,
+            "MinPriceThreshold": 4500000,
+            "SellPricePercent": -1.0,
+           "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+			"RFFSHeli_aviation_battery",
+			"RFFSHeli_igniter_plug",
+			"RFFSHeli_hydraulic_hoses",
+			"RFFSHeli_wiring_harness",
+			"HeadlightH7",
+			"HeadlightH7"
+			],
+            "Variants": []
+        },{
+            "ClassName": "RFFSHeli_Bo105m_BeastMode",
+            "MaxPriceThreshold": 4500000,
+            "MinPriceThreshold": 4500000,
+            "SellPricePercent": -1.0,
+           "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+			"RFFSHeli_aviation_battery",
+			"RFFSHeli_igniter_plug",
+			"RFFSHeli_hydraulic_hoses",
+			"RFFSHeli_wiring_harness",
+			"HeadlightH7",
+			"HeadlightH7"
+			],
+            "Variants": []
+        },
+		{
+            "ClassName": "RFFSHeli_Bo105m_Camo257",
+            "MaxPriceThreshold": 4500000,
+            "MinPriceThreshold": 4500000,
+            "SellPricePercent": -1.0,
+           "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+			"RFFSHeli_aviation_battery",
+			"RFFSHeli_igniter_plug",
+			"RFFSHeli_hydraulic_hoses",
+			"RFFSHeli_wiring_harness",
+			"HeadlightH7",
+			"HeadlightH7"
+			],
+            "Variants": []
+        },
+		{
+            "ClassName": "RFFSHeli_Bo105m_Evil",
+            "MaxPriceThreshold": 4500000,
+            "MinPriceThreshold": 4500000,
+            "SellPricePercent": -1.0,
+           "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+			"RFFSHeli_aviation_battery",
+			"RFFSHeli_igniter_plug",
+			"RFFSHeli_hydraulic_hoses",
+			"RFFSHeli_wiring_harness",
+			"HeadlightH7",
+			"HeadlightH7"
+			],
+            "Variants": []
+        },{
+            "ClassName": "RFFSHeli_Bo105m_Ghost",
+            "MaxPriceThreshold": 4500000,
+            "MinPriceThreshold": 4500000,
+            "SellPricePercent": -1.0,
+           "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+			"RFFSHeli_aviation_battery",
+			"RFFSHeli_igniter_plug",
+			"RFFSHeli_hydraulic_hoses",
+			"RFFSHeli_wiring_harness",
+			"HeadlightH7",
+			"HeadlightH7"
+			],
+            "Variants": []
+        },
+        {
+            "ClassName": "RFFSHeli_Bo105m_GoldUnCiv ",
+            "MaxPriceThreshold": 4500000,
+            "MinPriceThreshold": 4500000,
+            "SellPricePercent": -1.0,
+           "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+			"RFFSHeli_aviation_battery",
+			"RFFSHeli_igniter_plug",
+			"RFFSHeli_hydraulic_hoses",
+			"RFFSHeli_wiring_harness",
+			"HeadlightH7",
+			"HeadlightH7"
+			],
+            "Variants": []
+        }
+    ]
+}
